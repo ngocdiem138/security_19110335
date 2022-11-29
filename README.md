@@ -7,4 +7,5 @@ npm i
 ```
 npm start
 ```
-## Test ở https:\\localhost:3000
+## Sau khi chạy project test tại link:
+https:\\\localhost:3000
