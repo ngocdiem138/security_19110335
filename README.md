@@ -8,4 +8,4 @@ npm i
 npm start
 ```
 ## Sau khi chạy project test tại link:
-https:\\\localhost:3000
+https://localhost:3000/
